@@ -1,2 +1,2 @@
 # NoXerveServiceSet
-Official service sets from NoXerve.
+Official service set from NoXerve.
